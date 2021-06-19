@@ -5,6 +5,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Hugo Business Theme.
+# WEB DEVELOPMENT & DESIGN
+Studio RAIZIN
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Studio RAIZINは、新しいWeb開発アーキテクチャによる高速・安全・美しいWebサイトを提供いたします。
