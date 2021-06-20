@@ -6,11 +6,11 @@ layout: contact
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+| 曜日       | 時間   　|
+| ------ | ------------- |
+| 月曜日  | 8:30am - 5:00pm |
+| 火曜日  | 8:30am - 5:00pm |
+| 水曜日  | 8:30am - 5:00pm |
+| 木曜日  | 8:30am - 5:00pm |
+| 金曜日  | 8:30am - 5:00pm |
+| 土日祝日| 　　　           |
