@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: misakiRZ/hugo-serif-theme.git # GitHubのリポジトリ　「https://github.com/」の後ろの部分
+  repo: misakiRZ/hugo-serif-theme # GitHubのリポジトリ　「https://github.com/」の後ろの部分
 
 media_folder: "static/images"
 
