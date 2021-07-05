@@ -4,10 +4,10 @@ backend:
 
 media_folder: "static/images"
 
-public_folder: "images/"
+public_folder: "images/post"
 
 collections:
-  - label: "Blog" # 管理画面のサイドバーで使う
+  - label: "記事・投稿" # 管理画面のサイドバーで使う
     name: "post" # 管理画面のパスで使う　例：/admin/collections/blog
     folder: "content/post" # Markdownを保存するディレクトリ。Hugoのsectionにあたる
     create: true # 新しいページを作ることを許可する

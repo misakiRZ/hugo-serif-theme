@@ -5,11 +5,9 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# WEB 
-# Development  
-# Design Studio
-# RAIZIN
+# IoT技術
+# Webアプリ開発
+# マーケティング
 ---  
-
-
-（株）RAIZINは、高速・安全・美しいWebサイトの提供に努めてます。  
+「業務効率化」「商品・サービスの認知度を向上」といった課題の解決に企業様と一緒に取り組みます。  
+> （株）RAIZIN：代表取締役社長 　山﨑　美沙季
