@@ -4,7 +4,7 @@ backend:
 
 media_folder: "static/images/post"
 
-public_folder: "images/post"
+public_folder: "post/" #"images/post"
 
 collections:
   - label: "記事・投稿" # 管理画面のサイドバーで使う
