@@ -33,7 +33,7 @@ title = "（株）RAIZIN"
     summary_large_truncate = 120  # How many characters to include in the summary of the team bios (large layout) before truncating
 
   [params.footer]
-    copyright_text = 'by RAIZIN Inc.'
+    copyright_text = 'IoT-Services, AP-Development, JAMstack, FastSite, Marketing, IT-Consulting by RAIZIN Inc.'
 
 [menu]
   # Main Menu
@@ -70,6 +70,16 @@ title = "（株）RAIZIN"
       weight = 1
 
   [[menu.footer]]
+    name = "Services"
+    url = "/services/"
+      weight = 2
+
+  [[menu.footer]]
+    name = "Post"
+    url = "/post/"
+      weight = 3
+
+  [[menu.footer]]
     name = "Contact"
     url = "/contact/"
-      weight = 2
+      weight = 4
