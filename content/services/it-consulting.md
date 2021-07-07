@@ -5,6 +5,8 @@ featured: true
 draft: false
 weight: 6
 ---
+![Accounting Services](/images/post/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+## ITコンサルティングについて
 
 当社は、「認定経営革新等支援機関」「スマートSMEサポーター（認定情報処理支援機関）」として、**小規模事業者・中小企業の生産性向上**に資するITツールを提供するITベンダー等のIT導入支援・経営状況の把握、事業計画作成、事業計画実行等支援等の業務を行っています。
 

@@ -5,6 +5,10 @@ featured: true
 draft: false
 weight: 3
 ---
+![Accounting Services](/images/post/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+
+## 情報の多様化
+
 情報を得る手段が従来のテレビや新聞からインターネットへ移行しつつある状況です。現在では、インターネット広告の重要性は非常に高く、たくさんの企業がwebマーケティングに注目しています。
 
 ## Webマーケティングとは

@@ -5,9 +5,7 @@ featured: true
 draft: false
 weight: 4
 ---
-
-豊富な経験とノウハウを活かし
-最適なWebソリューションをワンストップで！  
+![Accounting Services](/images/post/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 ## オープンソース・ソリューション
 

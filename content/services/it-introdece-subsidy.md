@@ -5,7 +5,9 @@ featured: true
 draft: false
 weight: 5
 ---
+![Accounting Services](/images/post/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
+## IT導入補助金とは
 [IT導入補助金の目的（A・B類型）](https://www.it-hojo.jp/first-one/)は、IT導入補助金は、中小企業・小規模事業者等のみなさまが自社の課題やニーズに合ったITツールを導入する経費の一部を補助することで、みなさまの業務効率化・売上アップをサポートするものです。
 自社の置かれた環境から強み・弱みを認識、分析し、把握した経営課題や需要に合ったITツールを導入することで、業務効率化・売上アップといった経営力の向上・強化を図っていただくことを目的としています。
 
