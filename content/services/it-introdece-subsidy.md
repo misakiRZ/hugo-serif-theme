@@ -6,45 +6,25 @@ draft: false
 weight: 5
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+[IT導入補助金の目的（A・B類型）](https://www.it-hojo.jp/first-one/)は、IT導入補助金は、中小企業・小規模事業者等のみなさまが自社の課題やニーズに合ったITツールを導入する経費の一部を補助することで、みなさまの業務効率化・売上アップをサポートするものです。
+自社の置かれた環境から強み・弱みを認識、分析し、把握した経営課題や需要に合ったITツールを導入することで、業務効率化・売上アップといった経営力の向上・強化を図っていただくことを目的としています。
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+## 申請・導入の3STEP
 
-## Geniti facinus praeruptam atris ab manus in
+1. 本事業への理解
+2. 「IT導入支援事業者の選定」「ITツールの選択」（事前準備）
+3. 「gBizIDプライム」アカウントの取得「SECURITY ACTION」の実施（申請要件）
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+## 交付申請（IT導入支援事業者との共同作成・提出）
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
+[IT導入支援事業者](https://www.it-hojo.jp/r02/doc/pdf/r2_shien_list.pdf)として認定されてます。
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
+IT導入支援事業者との間で商談を進め、交付申請の事業計画を策定します。
+その後、中小企業・小規模事業者等のみなさまの交付申請は、以下の流れで行います。
 
-## Vidit si probetne vertitur
+1. IT導入支援事業者から『申請マイページ』の招待を受け、代表者氏名等の申請者基本情報を入力する。
+2. 交付申請に必要となる情報入力・書類添付を行う。
+3. IT導入支援事業者にて、導入するITツール情報、事業計画値を入力する。
+4. 『申請マイページ』上で入力内容の最終確認後、申請に対する宣誓を行い事務局へ提出する。
 
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
-
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
-
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+気軽にご相談ください。
