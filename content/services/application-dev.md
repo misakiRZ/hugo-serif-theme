@@ -9,44 +9,32 @@ weight: 4
 豊富な経験とノウハウを活かし
 最適なWebソリューションをワンストップで！  
 
-## Ne verba patulosque numen vix libet
+## オープンソース・ソリューション
 
-Agitabitur signa lympha; **non lacunae** mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+（株）RAIZINは、オープンソースに特化した各種サービスを展開しています。
+これまでの経験で培った技術と豊富な知見を活かし、
+ご予算の中で最大の価値を生み出す最適な**オープンソース・ソリューション**を_ワンストップ_で提供します。
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+オープンソースを活用する６つの利点
 
-Locus evicit __loquuntur Tyrrhena omnes__, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+1. 信頼性：	ソースコードが公開されているため、発見された脆弱性やバグに対してもいち早く修正改善を行う事が可能です。
+2. 安定性：	ベンダーのサポート打ち切りによる強制的なアップグレードの心配なく、長期間利用可能です。
+3. 監査能力：	オープンであるため、第三者機関に監査を依頼するなど様々な選択が可能です。
+4. コスト：	ライセンス費用不要に加え、ライセンス管理業務の削減、ライセンス違反の脅威からの解放、サポート打ち切りに伴うリプレース費用の削減など総合的なコストの削減が期待できます。
+5. 柔軟性と自由：	多くのOSSは国際標準規格のプロトコル及びAPIを備えており、新しいサービスとの連携機能がサポートされています。また自社の判断でソースコードが改修可能なため、ビジネス環境変化への素早い対応が可能です。
+6. サポートの選択：	「コミュニティ版（自己責任）をサポートするサービス」と「エンタープライズ版（品質保証版）」の２種類があり、利用目的、リスク、サービスレベル、費用に応じてサービス利用の選択が可能です。
 
-## Postquam tamen
+## Webアプリケーション
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+Webアプリケーションとは、ブラウザ上で利用できるアプリのことです。
+Webアプリでできることとメリットについて
+- Webアプリの開発は、前述した通り、ネイティブアプリよりもコストを抑えられる点がメリットとなります。
+- ユーザーがWebアプリを利用するメリットは、なんといっても“手軽さ”が挙げられます。
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+## Webアプリケーションの開発
+- プログラミング言語
+    - JavaScript,Python,Goによるバックエンド、フロントエンドの開発
+- フレームワーク
+    - Hugo,Strapiのインテグレーション
+- Hosting
+    - GCP、NTTPC-Indigo、Azure Static Web Apps
