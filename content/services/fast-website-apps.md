@@ -6,12 +6,11 @@ featured: true
 weight: 2
 ---
 
-パフォーマンスの高いWebサイト、プログレッシブWebアプリを実現するためにRAIZINでは**Jamstack**のテクノロジーを使っています。これは、CDNとデカップリングサービスの使用を強調する最新のWeb開発アーキテクチャです。
-
 ![Accounting Services](/images/post/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
+# パフォーマンスの高いWebサイト＆プログレッシブWebアプリ
+パフォーマンスの高いWebサイト、プログレッシブWebアプリを実現するためにRAIZINでは**Jamstack**のテクノロジーを使っています。これは、CDNとデカップリングサービスの使用を強調する最新のWeb開発アーキテクチャです。
 # Jamstackを選ぶ理由
-
 Jamstackアーキテクチャには、大規模なeコマースサイト、SaaSアプリケーション、個人ブログのいずれを構築する場合でも、多くの利点があります。
 
 1. よりよい性能
