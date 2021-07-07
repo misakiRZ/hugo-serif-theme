@@ -1,14 +1,13 @@
 ---
-title: "自社開発アプリ"
+title: "Webアプリ開発"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 draft: false
 weight: 4
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+豊富な経験とノウハウを活かし
+最適なWebソリューションをワンストップで！  
 
 ## Ne verba patulosque numen vix libet
 

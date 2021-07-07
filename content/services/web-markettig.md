@@ -5,50 +5,19 @@ featured: true
 draft: false
 weight: 3
 ---
-
 情報を得る手段が従来のテレビや新聞からインターネットへ移行しつつある状況です。現在では、インターネット広告の重要性は非常に高く、たくさんの企業がwebマーケティングに注目しています。
 
-## Inter pectore totidem
+## Webマーケティングとは
 
-Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
-lassavit nihil oracula exiguo ligatis.
+「マーケティング」とは、「より多くの商品・サービスを売るための活動」です。そのためには、まず「こんな商品・サービスがある」「どこで売っている」ということを知ってもらわなければなりませんし、その上で、顧客の好みやライフスタイルに合った商品・サービスを提案し、興味を持ってもらう必要があります。
 
-## Novis hunc qua erat caecisque
+これらの活動を通じて、顧客に「この商品・サービスが欲しい！」と思ってもらい、実際の購入に結び付けていくのがマーケティングの本来の目的です。そしてその活動を、webサイトでの集客力アップ、販売力アップのために行うのが「webマーケティング」です。
 
-Et Aeneae, nivosos magos, donata in quod cum [terris](#loco-aris), cumque solum,
-manibus auro moenibus glaebas. Manus incaluere. Nunc audiat teneat dextra,
-finivit cui male venit moves! Senior et niger tepido parenti fuit, in ponit
-spectemur et opto speret. Ferum Neptunus tergore.
+## webマーケティングの重要性
 
-Nunc erant super: sacra cingebant tandem: rogabam terras, ripa. Cum est scire
-est increpat, leaena ipsa venae me minus casusve tauri. Poscis sacrorum
-_congerit currus_ Hippotades poenas. Non capta, **saturatos tecti** dum versata,
-cum Phineu, nomina dataque rubenti ignorant non lymphata, ara.
+スマートフォンやSNSの普及によってネットショッピングがより手軽になったこと、店舗で品切れのものや、遠くまで行かなければ買えないものも簡単に購入できるネットショッピングの利便性が幅広い世代に認知されてきたことも、市場の拡大を後押ししていくでしょう。オンラインショップなどのwebサイト、webサービスの将来には、大きな可能性が広がっています。
 
-## Naiades latuere rubenti tendere os Phrygum eminus
+しかしながら、ネットショッピングが普及すればするほど、オンラインショップの増加とともに競争は熾烈になります。氾濫するweb広告の中から、いかに自社の広告を見つけ出してもらい、集客に結び付けるか。また、いかにwebサイトの中に長くとどまってもらい、回遊を促して「欲しい商品・サービス」にたどり着いてもらうか。そして最後に、どうやって「買いたい！」と思わせるのか。これらの行動を"訪問客"の傾向分析に基づいて、限りなく「思い通り」にするwebマーケティングの重要性は、年々高まっています。
 
-Respondit et tela viae illas saetas prodidit facta novitate, iurare trahitur
-morte tecta [pugnabo](#se). Est age, paelicis vestigia tremor capillis carere
-formae ne ait modo. Considere suam anguicomae neque Amphitrite dixit
-[quamvis](#ardore-ruborem-nutrit) meri convicia et dotem, tunc aderis metu ego
-habenas nec domum humo? Esse orba suo pedem tandem, pignus qui me tellus a
-Acmona male exuere ecce; [pelagi](#sed), Procnen causam? Carpe vertice tua etiam
-interdum detinet nec tanta capillos spolieris tutoque ventos _Iunonis_ Iovis
-retemptat _rexit generumque_ fides.
+## webマーケティングの集客施策
 
-## Statuunt nais inponere tamen duodena aemulus mille
-
-Feriat humilis recuset parum! Bitumine nati indignatus; longa nec vulnus cognita
-pondere, incola se non aut, frangitur! Cavis resoluta: ilia ardeat terraeque
-nova, adhuc! Ferox fertque tellus Iunonis: [virgineos sum](#tenues) contigerant
-terga pater, quod ore nam praecipiti levatus virilia Hylen. Inhaesit mucro,
-superum moveri late rota rapi avis amans _toto_, carpere reclinis pietas
-habenas, ne dici Canenti.
-
-1. Induruit huc grave simili
-2. Praecincti natos
-3. Ad dedit parentem
-4. Linguae pendent
-
-Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
