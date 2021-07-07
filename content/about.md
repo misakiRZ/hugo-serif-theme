@@ -3,48 +3,31 @@ title: '（株）RAIZINとは'
 date: 2018-08-22T17:01:34+07:00
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+## 会社情報
+---
+![IoT-03](./img/corp-info.jpeg)
+### 会社概要
+---
 
-## Ne verba patulosque numen vix libet
+- 会社名	：株式会社RAIZIN
+- 連絡先	：050-7110-6450
+- 代表取締役社長：	山﨑　美沙季
+- 所在地	：〒754-0892 山口県山口市名田島３９３５番地
+- 事業内容	：広告サービス業（Webマーケティング）
+- 有資格	：AdWords 基礎、AdWords 検索認定資格
+- 認  定    ：認定経営革新等支援機関、認定情報処理支援機関、IT導入支援事業者
+- 資本金	：５０万円
+- 取引金融機関：株式会社西京銀行　小郡支店
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+### 経営理念
+---
+&ensp; 私たちは、提供するサービスを通じて、クライアント様の真の価値を発信するお手伝いをすることで、取引から生まれる豊かさを最大化することを目的とします。
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+### サービス方針
+---
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+1. 課題を理解します。
+2. 現場を大切にします。
+3. 関連する新技術について学習します。
 
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+<div style="text-align: right;">以上</div>
