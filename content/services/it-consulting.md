@@ -6,48 +6,37 @@ draft: false
 weight: 6
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+当社は、「認定経営革新等支援機関」「スマートSMEサポーター（認定情報処理支援機関）」として、**小規模事業者・中小企業の生産性向上**に資するITツールを提供するITベンダー等のIT導入支援・経営状況の把握、事業計画作成、事業計画実行等支援等の業務を行っています。
 
-## Ne verba patulosque numen vix libet
+## [認定経営革新等支援機関制度の概要](https://www.chusho.meti.go.jp/keiei/kakushin/nintei/)とは
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+中小企業を巡る経営課題が多様化・複雑化する中、中小企業支援を行う支援事業の担い手の多様化・活性化を図るため、平成24年8月30日に「中小企業経営力強化支援法」（現在の「中小企業等経営強化法」）が施行され、中小企業に対して専門性の高い支援事業を行う経営革新等支援機関を認定する制度が創設されました。
+認定制度は、税務、金融及び企業財務に関する専門的知識や支援に係る実務経験が一定レベル以上の個人、法人、中小企業支援機関等を経営革新等支援機関として認定することにより、中小企業に対して専門性の高い支援を行うための体制を整備するものです。
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+認定経営革新等支援機関から支援を受ける(事業者向け)
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+1. 中小企業・小規模事業者の経営課題
+2. [支援機関の選定](https://ninteishien.force.com/NSK_CertificationArea)
+3. 認定経営革新等支援機関に相談
+4. 事業計画の実現！
+5. モニタリング・フォローアップ
 
-## Postquam tamen
+経営課題等につきまして、気軽にご相談ください。
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+## [スマートSMEサポーター（認定情報処理支援機関）制度の概要](https://smartsme.go.jp/)とは
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+人手不足下における中小企業者等の生産性向上が求められる中、中小企業者等の生産性向上・経営基盤強化のために、2018年7月9日に「中小企業等経営強化法」の一部改正が施行され、中小企業の生産性向上に資するITツールを提供するITベンダー等のIT導入支援者(※)を「情報処理支援機関」として認定する制度が創設されました。
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+認定制度は、中小企業者等の生産性を高めるためのITツールを提供するITベンダー等のIT導入支援者(※)を情報処理支援機関として認定することにより、中小企業者等が使いやすいITツールの開発を促すとともに、中小企業者等にとってITベンダーやITツールを選定するために必要な情報を取得できるための支援体制を整備するものです。
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+なお、本制度及びITの利活用が中小企業者等に浸透することを期待して、認定された情報処理支援機関の愛称を「スマートSMEサポーター」とし、認定された情報処理支援機関には登録番号入りのロゴマークが提供されます。
+
+情報処理支援機関に求められること
+
+1. IT及びITツールに関する専門的な知識・経験・実績を有していること
+情報処理支援機関の認定に申請する者は、3年以上のソフトウェア又はクラウドサービスの提供実績、または10者以上の中小企業への提供実績を有していること。
+
+2. 生産性向上を行おうとする中小企業者等に対しIT利活用に係る指導及び助言が行えること
+3. ⻑期間にわたり継続的に⽀援業務を実施するための実施体制を有すること
+
+生産性向上・経営基盤強化につきまして、気軽にご相談ください。
