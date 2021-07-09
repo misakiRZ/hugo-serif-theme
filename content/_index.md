@@ -5,7 +5,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# IoT技術
+# Web デザイン
 # Webアプリ開発
 # マーケティング
 ---  
