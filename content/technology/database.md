@@ -2,9 +2,13 @@
 title: 'DataBase'
 date: 2018-12-20T13:44:55+10:00
 draft: false
-image: 'images/technology/#michael-dam-258165-unsplash.jpg'
-jobtitle: 'UI Designer'
+image: "images/technology/cat.png"
+jobtitle: 'DataBase'
 weight: 5
 ---
 
-DataBaseについて
+DataBaseについて  
+
+データベース（英: database, DB）とは、検索や蓄積が容易にできるよう整理された情報の集まり。 通常はコンピュータによって実現されたものを指す。コンピュータを使用したデータベース・システムでは、データベース管理用のソフトウェアであるデータベース管理システムを使用する場合も多い。プログラムで扱うデータ構造やデータそのものを独自実装の場合に比べて少ない工数で操作できるようにしている。膨大なデータを扱う現代の情報システムでは最重要と言える[要出典]技術である。
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』

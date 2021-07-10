@@ -2,9 +2,12 @@
 title: 'JavaScript'
 date: 2018-12-20T13:44:30+10:00
 draft: false
-image: 'images/technology/#joseph-gonzalez-399972-unsplash.jpg'
+image: 'images/technology/cat.png'
 jobtitle: 'フロントエンドとバックエンド'
 weight: 3
 ---
+JavaScript（ジャバスクリプト）とは、プログラミング言語のひとつである。JavaScriptはプロトタイプベースのオブジェクト指向スクリプト言語であるが、クラスなどのクラスベースに見られる機能も取り込んでいる。
 
-JavaScriptについて
+利用される場面はWebサイト・Webアプリ・バックエンド・デスクトップアプリ・モバイルアプリなど、ブラウザからサーバ、デスクトップからスマートフォンまで多岐にわたっている。  
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』

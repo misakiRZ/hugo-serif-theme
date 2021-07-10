@@ -2,14 +2,15 @@
 title: "JAMstack"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/technology/#peter-van-eijk-711986-unsplash.jpg"
-jobtitle: "Webサイト制作"
-linkedinurl: "https://##www.linkedin.com/"
+image: "images/technology/cat.png"
+jobtitle: "OpenSourceTechnology"
+linkedinurl: "https://bejamas.io/blog/jamstack/"
 promoted: true
 weight: 2
 ---
 
-Jamstackとは何ですか？
+Jamstackとは    
+
 JAMstackは、JavaScript、API、およびMarkupの略です。今日、Jamstackは、データベースなしでデータベース指向のCMSの動的属性を保持しながら、開発者がWebパフォーマンスやセキュリティの利点の向上など、静的Webサイトの利点に依存できるようにするWeb開発アーキテクチャを指します。
 
 静的開発プロセスと動的開発プロセス
