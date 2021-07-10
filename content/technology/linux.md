@@ -2,7 +2,7 @@
 title: "Linux"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/technology/#sage-kirk-485982-unsplash.jpg"
+image: "images/technology/cat.png"
 jobtitle: "OpenSourceTecknology"
 linkedinurl: "https://ja.wikipedia.org/wiki/Linux"
 promoted: true

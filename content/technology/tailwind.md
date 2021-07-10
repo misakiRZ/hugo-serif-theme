@@ -8,7 +8,5 @@ linkedinurl: "https://tailwindcss.com/"
 promoted: true
 weight: 1
 ---
-
 TailwindCSSについての説明  
-
 Tailwindのユーティリティクラスを使用すると、CSSなしでカスタムCSSを作成できます。Bootstrapの使いやすさと手書きCSSの柔軟性を使用して、独自のカスタマイズされたデザインを構築します。
