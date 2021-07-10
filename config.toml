@@ -78,12 +78,12 @@ title = "（株）RAIZIN"
     name = "Post"
     url = "/post/"
       weight = 3
-  [[menu.main]]
+  [[menu.footer]]
       name = "Technology"
       url = "/technology/"
       weight = 4
 
-  [[menu.main]]
+  [[menu.footer]]
       name = "About"
       url = "/about/"
       weight = 5
