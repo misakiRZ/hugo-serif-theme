@@ -8,7 +8,7 @@ linkedinurl: "https://thinkingelixir.com/petal-stack-in-elixir/"
 promoted: true
 weight: 99
 ---
-1. [PETAL stack](https://thinkingelixir.com/petal-stack-in-elixir/)  
+1. [PETAL stack](https://changelog.com/posts/petal-the-end-to-end-web-stack)  
 2. [TAPE stack](http://tapestack.party/)  
 3. [Phoenix 高速Webアプリ](https://www.slideshare.net/piacere_ex/elixir3phoenixweb-rest-api-75571536)  
 4. [Elixir + Phoenix FrameworkでWebアプリケーション](https://www.casleyconsulting.co.jp/blog/engineer/241/)  
