@@ -1,21 +1,21 @@
 ---
-title: "MATHEMATICS"
+title: "Produce UX Value"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 draft: false
 weight: 99
 ---
-![Accounting Services](/images/post/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/post/math.png)
 
-## *[2013年 プログラマの為の数学勉強会 資料](https://nineties.github.io/math-seminar/)*
-とてもきれいな数学サイトですので、紹介します。
 [Idein Inc.](https://idein.jp/ja/)のCEOの方が、作られたサイトのようです。　
 技術力は、全く異なりますが、基本的な考えに賛同します。
 
 1. 現場の情報を、あなたの思い描いた付加価値にできる
 2. 「AI / IoT をビジネスに活用したい」「DX による業務効率化に取り組んでいるが、コストが見合わない」「使い勝手が悪く、機能が限定的」といった様々なビジネス課題を解決します。
 
-以下は、数学関係です。  
+以下は、上記のCEOの方が作られた数学関係サイトです。  
+## *[2013年 プログラマの為の数学勉強会 資料](https://nineties.github.io/math-seminar/)*
+とてもきれいなサイトですので、紹介します。
 
 - 第1回:イントロダクション
 - 第2回:浮動小数点数・極限・微分
