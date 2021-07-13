@@ -5,7 +5,7 @@ featured: true
 draft: false
 weight: 3
 ---
-![Accounting Services](/images/post/LiveView-dockyard.png)
+![Accounting Services](/images/post/LiveView-dockyard.jpg)
 
 ## **PETAL –エンドツーエンドのWebスタック**  
   
