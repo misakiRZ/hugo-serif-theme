@@ -5,9 +5,9 @@ draft: false
 featured: true
 weight: 2
 ---
-
 ![Accounting Services](/images/services/performance.png)
 2021.7.13時点のライジンのトップページ  
+![JAMstack](/images/img-tech/777-0001-jamstack-full-logo.svg)  
 ## パフォーマンスの高いWebサイト
 **パフォーマンスの高いWebサイト**、**プログレッシブWebアプリ**を実現するためにRAIZINでは**Jamstack**のテクノロジーを使っています。これは、CDNとデカップリングサービスの使用を強調する最新のWeb開発アーキテクチャです。
 ## Jamstackを選ぶ理由
