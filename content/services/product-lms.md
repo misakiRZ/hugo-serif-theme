@@ -5,9 +5,6 @@ featured: true
 draft: false
 weight: 12
 ---
-
-## eLMS雷神
----
 ![AP_logo](/images/services/eLMS01.png)
 
 「eLMS雷神」は、学習塾様を対象とした「学習管理」システムです。このシステムでは、学習者の学習進捗度をシステム上で管理できます。主な機能は「CRM機能」「学習機能」「問題自動作成機能」があります。
