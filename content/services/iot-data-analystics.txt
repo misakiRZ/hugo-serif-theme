@@ -1,9 +1,9 @@
 ---
 title: "IoTデータ収集・分析"
 date: 2021-06-01T12:33:46+10:00
-draft: false
+draft: true
 featured: true
-weight: 1
+weight: 7
 ---
 
 **IoT**は、デジタルトランスフォーメーション（DX）を考えるうえで欠かせないキーワードとなり、製造企業を中心に、IoTの導入・活用が盛んになっています。  
