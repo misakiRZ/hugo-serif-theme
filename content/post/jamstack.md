@@ -1,5 +1,5 @@
 ---
-title: "高速Webサイトの開発と管理"
+title: "高速Webサイト （JAMstack）"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 draft: false

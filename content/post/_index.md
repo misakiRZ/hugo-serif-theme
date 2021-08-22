@@ -6,4 +6,4 @@ intro_image_hide_on_mobile: false
 ---
 
 # Posting Interesting Web Information
-（株）ライジンは、Webにかかわるマーケティング、デザイン、システムについての情報を発信していきます。
+（株）ライジンは、Webにかかわるマーケティング、デザイン、Webシステムについての情報を発信していきます。

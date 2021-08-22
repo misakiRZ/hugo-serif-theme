@@ -3,7 +3,7 @@ title: "高速リアルタイムWebアプリ"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 draft: false
-weight: 2
+weight: 998
 ---
 ![ ](/images/post/LiveView-436x44.webp)  
 ![ ](/images/post/phoenix-s492x492.webp)  
