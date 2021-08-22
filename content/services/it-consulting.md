@@ -43,7 +43,7 @@ weight: 6
 
 生産性向上・経営基盤強化につきまして、気軽にご相談ください。
 
-## [月次支援金の概要の概要](https://ichijishienkin.go.jp/getsujishienkin/index.html)とは
+## [月次支援金の概要](https://ichijishienkin.go.jp/getsujishienkin/index.html)
 
 2021年の4月以降に実施される緊急事態措置※1又はまん延防止等重点措置※2に伴う、「飲食店
 の休業・時短営業」や「外出自粛等」の影響により、売上が50％以上減少した中小法人・個人事
