@@ -6,10 +6,6 @@ image: "images/technology/cat.png"
 jobtitle: "OpenSourceTecknology"
 linkedinurl: "https://ja.wikipedia.org/wiki/Linux"
 promoted: true
-weight: 3
+weight: 700
 ---
-
-Linuxについての説明
-出典: フリー百科事典『ウィキペディア（Wikipedia）』
-
-Linux（リナックス、他の読みは後述）とは、狭義にはUnix系オペレーティングシステムカーネルであるLinuxカーネルを指し、広義にはそれをカーネルとして周辺を整備したシステム全体のことをいう（GNU/Linuxシステムも参照）。
+Linux（リナックス）とは、狭義にはUnix系オペレーティングシステムカーネルであるLinuxカーネルを指し、広義にはそれをカーネルとして周辺を整備したシステム全体のことをいう。（Wikipedia）

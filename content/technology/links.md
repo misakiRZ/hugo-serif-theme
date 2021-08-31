@@ -6,7 +6,7 @@ image: "images/technology/cat.png"
 jobtitle: "OpenSourceTecknology"
 linkedinurl: "https://thinkingelixir.com/petal-stack-in-elixir/"
 promoted: true
-weight: 99
+weight: 999
 ---
 1. [PETAL stack](https://changelog.com/posts/petal-the-end-to-end-web-stack)  
 2. [TAPE stack](http://tapestack.party/)  
@@ -15,9 +15,3 @@ weight: 99
 5. [Phoenix入門](https://qiita.com/tmaeda/items/e609a7c5aac91913cb7c)
 6. [Alpine Toolbox](https://www.alpinetoolbox.com/)  
 7. [Nginx](https://blog.mosuke.tech/entry/2016/06/04/180122/)  
-8. [ElixirでIoT](https://www.slideshare.net/takasehideki/elixiriot-2)  
-9. [Phoenix Liveview chartjs setup](https://elixirthanosmango.substack.com/p/phoenix-liveview-chartjs-setup)  
-10. [テールウィンドCSS](https://tailwindcss.com/)  
-11. [Alpine.js](https://github.com/alpinejs/alpine)  
-12. [フェニックスフレームワーク](https://phoenixframework.org/)  
-13. [エリクサー](https://elixir-lang.org/)  

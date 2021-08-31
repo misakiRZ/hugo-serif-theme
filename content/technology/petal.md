@@ -6,7 +6,7 @@ image: "images/technology/cat.png"
 jobtitle: "OpenSourceTecknology"
 linkedinurl: "https://thinkingelixir.com/petal-stack-in-elixir/"
 promoted: true
-weight: 98
+weight: 900
 ---
 1. Phoenix
 2. Elixir
@@ -14,5 +14,4 @@ weight: 98
 4. Alpine.js
 5. LiveView
 
-**[PETAL-endto-end](https://changelog.com/posts/petal-the-end-to-end-web-stack)**のテクノロジーの組み合わせは、適切な種類のプロジェクトにとって非常に強力で生産的です。  
-レスポンシブでリアクティブなUIを備えたWebアプリケーション（またはSaaS）。特に、必要なユーザーエクスペリエンスを実現するためにSPA（シングルページアプリケーション）Javascriptフロントエンドを必要とするレスポンシブでリアクティブなユーザーエクスペリエンスを備えたWebアプリケーションを構築するためのものです。  
+**[PETAL-endto-end](https://changelog.com/posts/petal-the-end-to-end-web-stack)**のテクノロジーの組み合わせは、適切な種類のプロジェクトにとって非常に強力で生産的です。    
