@@ -5,5 +5,5 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Posting Interesting Web Information
-（株）ライジンは、Webにかかわるマーケティング、デザイン、Webシステム開発についての情報を発信していきます。
+# Web Technology
+Web技術についての情報を発信していきます。

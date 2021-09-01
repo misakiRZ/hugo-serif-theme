@@ -42,26 +42,30 @@ title = "（株）RAIZIN"
     url = "/services/"
       weight = 1
 
+  [[menu.main]]
+      name = "Webmarketing"
+      url = "/webmarketing/"
+      weight = 2
 
   [[menu.main]]
       name = "Post"
       url = "/post/"
-      weight = 2
+      weight = 3
 
   [[menu.main]]
       name = "Links"
       url = "/links/"
-      weight = 3
+      weight = 4
 
   [[menu.main]]
       name = "About"
       url = "/about/"
-      weight = 4
+      weight = 5
 
   [[menu.main]]
       name = "Contact"
       url = "/contact/"
-      weight = 5
+      weight = 6
 
   # Footer Menu
   [[menu.footer]]
@@ -75,20 +79,26 @@ title = "（株）RAIZIN"
       weight = 2
 
   [[menu.footer]]
+    name = "Webmarketing"
+    url = "/webmarketing/"
+      weight = 3
+
+  [[menu.footer]]
     name = "Post"
     url = "/post/"
-      weight = 3
-  [[menu.footer]]
-      name = "Technology"
-      url = "/technology/"
       weight = 4
+
+  [[menu.footer]]
+      name = "Links"
+      url = "/links/"
+      weight = 5
 
   [[menu.footer]]
       name = "About"
       url = "/about/"
-      weight = 5
+      weight = 6
 
   [[menu.footer]]
     name = "Contact"
     url = "/contact/"
-      weight = 6
+      weight = 7
