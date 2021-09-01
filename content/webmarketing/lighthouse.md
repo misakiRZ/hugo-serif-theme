@@ -1,5 +1,5 @@
 ---
-title: "Webサイトパフォーマンス測定ツール"
+title: "Webサイトパフォーマンス測定"
 date: 2021-09-01T15:15:34+10:00
 featured: true
 draft: false
