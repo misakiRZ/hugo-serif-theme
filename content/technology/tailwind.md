@@ -3,7 +3,7 @@ title: "Tailwind"
 date: 2019-11-19T10:47:58+10:00
 draft: false
 image: "images/technology/cat.png"
-jobtitle: "OpenSourceTecknology"
+jobtitle: "風と共に走るプロントエンド開発"
 linkedinurl: "https://tailwindcss.com/"
 promoted: true
 weight: 700
