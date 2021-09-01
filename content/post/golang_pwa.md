@@ -3,7 +3,7 @@ title: "PWA（Progressive Web Apps）"
 date: 2021-07-28T15:15:34+10:00
 featured: true
 draft: false
-weight: 3
+weight: 100
 ---
 ![ ](/images/post/Golang/PWA9k.webp)  
 ライジンでは、**PWA**を開発します。

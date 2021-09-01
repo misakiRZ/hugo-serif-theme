@@ -3,7 +3,7 @@ title: "Webアプリの開発 （Go言語）"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 draft: false
-weight: 2
+weight: 100
 ---
 ![ ](/images/post/Golang/golang_neo.jpg)  
 ライジンでは、Webアプリの開発に**GO言語の技術**を使ってます。

@@ -3,7 +3,7 @@ title: "高速Webサイト （JAMstack）"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 draft: false
-weight: 1
+weight: 100
 ---
 ![ ](/images/img-tech/777-0001-jamstack-full-logo.svg)  
 ライジンでは、Webサイトの開発に**JAMstackの技術**を使ってます。

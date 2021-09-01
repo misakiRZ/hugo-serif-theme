@@ -8,11 +8,7 @@ intro_image_hide_on_mobile: true
 # WE  LOVE
 # WORKING
 # WITH  GOLANG
-
-### PWA技術により
-### webサイトを
-### アプリケーションライクに ! 
-
+### アプリケーションライクなWEBサイトに !
 ---
 IT×経営のコンサルティングによる課題解決に企業様と一緒に取り組みます。  
 
