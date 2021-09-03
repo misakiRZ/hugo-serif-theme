@@ -2,7 +2,7 @@
 title: 'RAIZINについて（About）'
 date: 2018-08-22T17:01:34+07:00
 ---
-![IoT-03](/images/illustrations/small_pointing.jpg)
+![IoT-03](/images/logo/pixeltrue-idea-1.png)
 
 ### 【業務方針】
 ---
