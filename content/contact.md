@@ -3,7 +3,7 @@ title: 'Contact'
 date: 2018-02-22T17:01:34+07:00
 layout: contact
 ---
-![board](/images/illustrations/board.png)  
+![board](/images/logo/web-idea-1.png)  
 
 気軽にご連絡ください。  
 お待ちしております。  
