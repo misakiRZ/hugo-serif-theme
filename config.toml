@@ -53,11 +53,6 @@ title = "（株）RAIZIN"
       weight = 3
 
   [[menu.main]]
-      name = "Links"
-      url = "/links/"
-      weight = 4
-
-  [[menu.main]]
       name = "About"
       url = "/about/"
       weight = 5
