@@ -1,6 +1,6 @@
 baseURL = "www.raizin.net"
 languageCode = "ja"
-title = "（株）RAIZIN"
+title = "WEBシステム開発・高速ホームページ作成 | 山口県山口市　株式会社RAIZIN"
 
 [params]
   # In most cases you will only want to use either one of these. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
@@ -19,12 +19,13 @@ title = "（株）RAIZIN"
     alt = "RAIZIN Inc."
 
   [params.homepage_meta_tags]
-    meta_description = "（株）RAIZINは、IoT技術、Webアプリ開発、Webマーケティングを主な業務としています。"
+    meta_description = "IoT技術、Webアプリ開発、Webマーケティングを主な業務としています。DXに係るコンサル及びシステム開発から、企業の生産性向上、コーポレートサイトの構築、企業用ホームページ制作、SEO対策、パフォーマンスの高いWebサイトの制作を行っています。「認定経営革新等支援機関」「スマートSMEサポーター（認定情報処理支援機関）」として、小規模事業者・中小企業の生産性向上に資するITツールを提供するITベンダー等のIT導入支援・経営状況の把握、事業計画作成、事業計画実行等支援等の業務を行っています。"
+    meta_keywords = "Webアプリ開発,Webマーケティング,高速WEBサイト,高速サイト,爆速ホームページ,IoTコンサル,認定経営革新等支援機関,スマートSMEサポーター,認定情報処理支援機関,IT導入支援事業者,IT×経営,ITコンサル,PWA,SPA"
     meta_og_title = "Copyright © 2018 RAIZIN Inc. ALLRIGHT RESERVED"
     meta_og_type = "website"
     meta_og_url = "https://raizin.net"
     meta_og_image = "https://raizin.net"
-    meta_og_description = "GOlang,Go言語,Jamstack,PWA,SPA,Hugo,Alpine.js,Tailwind,IoT,BLE"
+    meta_og_description = "高速サイト、GOlang,Go言語,Jamstack,PWA,SPA,Hugo,Alpine.js,Tailwind,IoT,BLE"
     meta_twitter_card = "summary"
     meta_twitter_site = "@raizin.net"
     meta_twitter_creator = "@raizin.net"
