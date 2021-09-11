@@ -1,6 +1,6 @@
 baseURL = "www.raizin.net"
 languageCode = "ja"
-title = "WEBシステム開発・高速ホームページ作成・WEBマーケティング | 山口県山口市　株式会社RAIZIN"
+title = "WEBシステム開発・高速ホームページ制作・WEBマーケティング・SEO対策 | 山口県山口市　株式会社RAIZIN"
 
 [params]
   # In most cases you will only want to use either one of these. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
