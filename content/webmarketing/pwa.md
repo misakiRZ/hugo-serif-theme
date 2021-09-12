@@ -1,5 +1,5 @@
 ---
-title: "PWA(プログレッシブウェブアプリ)"
+title: "PWAサイトのメリット"
 date: 2021-09-02T15:15:34+10:00
 featured: true
 draft: false
