@@ -1,6 +1,6 @@
 baseURL = "www.raizin.net"
 languageCode = "ja"
-title = "WEBシステム開発・高速ホームページ制作・WEBマーケティング・SEO対策 | 山口県山口市　株式会社RAIZIN"
+title = "高速サイト・安全サイト・SEOサイト・パフォーマンスサイト・WEBマーケティング・SEO対策・WEBシステム開発 | 山口県山口市　株式会社RAIZIN"
 
 [params]
   # In most cases you will only want to use either one of these. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
@@ -25,7 +25,7 @@ title = "WEBシステム開発・高速ホームページ制作・WEBマーケ�
     meta_og_type = "website"
     meta_og_url = "https://raizin.net"
     meta_og_image = "https://raizin.net"
-    meta_og_description = "高速サイト、GOlang,Go言語,Jamstack,PWA,SPA,Hugo,Alpine.js,Tailwind,IoT,BLE"
+    meta_og_description = "高速サイト、SEO対策,GOlang,Go言語,Jamstack,PWA,SPA,Hugo,Alpine.js,Tailwind,IoT,BLE"
     meta_twitter_card = "summary"
     meta_twitter_site = "@raizin.net"
     meta_twitter_creator = "@raizin.net"
